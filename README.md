@@ -12,6 +12,6 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 
 > git clone https://github.com/vinay72/EngiGyan.git <br>
 > cd EngiGyan <br>
-> npm install <br>
-> npm start <br>
+
+
 
