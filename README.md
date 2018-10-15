@@ -13,5 +13,9 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 > git clone https://github.com/vinay72/EngiGyan.git <br>
 > cd EngiGyan <br>
 
+<h2>Steps for Contributing to this Project.</h2>
+<h1>First you have to Fork This Repository on GitHub.<br></h1>
+<h1>You can clone this repository by Typing :- git clone https://github.com/vinay72/EngiGyan.git in Your Terminal.</h1>
+
 
 
