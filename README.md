@@ -10,8 +10,7 @@ Familiar with Git?
 
 Checkout this repo, install dependencies, then start the gulp process with the following:
 
-> git clone https://github.com/vinay72/EngiGyan.git <br>
-> cd EngiGyan <br>
+
 
 <h2>Steps for Contributing to this Project.</h2>
 <h1>First you have to Fork This Repository on GitHub.<br></h1>
