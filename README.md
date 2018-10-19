@@ -8,7 +8,7 @@ Getting Started </h1>
 There is one  method for getting started with this repo.
 Familiar with Git?
 
-Checkout this repo, install dependencies, then start the gulp process with the following:
+
 
 
 
