@@ -13,7 +13,7 @@ Familiar with Git?
 
 
 <h2>Steps for Contributing to this Project.</h2>
-<h1>First you have to Fork This Repository on GitHub.<br></h1>
+First you have to Fork This Repository on GitHub.<br>
 <h1>You can clone this repository by Typing :- git clone https://github.com/vinay72/EngiGyan.git in Your Terminal.</h1>
 
 
