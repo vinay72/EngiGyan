@@ -14,7 +14,8 @@ Familiar with Git?
 
 <h2>Steps for Contributing to this Project.</h2>
 First you have to Fork This Repository on GitHub.<br>
-You can clone this repository by Typing :- git clone https://github.com/vinay72/EngiGyan.git in Your Terminal.
+You can clone this repository by Typing :- git clone https://github.com/vinay72/EngiGyan.git in Your Terminal.<br>
+You can push all the changes to this repository by typing "git push" in your terminal.
 
 
 
