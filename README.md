@@ -7,7 +7,7 @@ Getting Started </h1>
 
 There is one  method for getting started with this repo.
 Familiar with Git?
-Let's start with analysing Git for sometime.
+Let's start with analysing Git Contribution Commands for sometime.
 
 
 
