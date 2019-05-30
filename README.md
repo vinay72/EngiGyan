@@ -17,7 +17,8 @@ Let's start with analysing Git Contribution Commands for sometime.
 First you have to Fork This Repository on GitHub.<br>
 You can clone this repository by Typing :- git clone https://github.com/vinay72/EngiGyan.git in Your Terminal.<br>
 You can push all the changes to this repository by typing "git push" in your terminal.
-### Home Page
+
+# Home Page
 
 
 
